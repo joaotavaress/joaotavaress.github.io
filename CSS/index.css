@@ -1,0 +1,15 @@
+nav {
+	display: inline;
+	text-align: center;
+	align-items: center;
+	width: auto;
+}
+
+a {
+	font-size: 18px;
+	font-family: 'Lexend', sans-serif;
+	color: #6F6F6F;
+	font-weight: 400px;
+	text-decoration: none;
+	margin: 5px;
+}
