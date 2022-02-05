@@ -1,0 +1,31 @@
+.svg-wrapper {
+  margin-top: 0;
+  position: relative;
+  width: 150px;
+  /*make sure to use same height/width as in the html*/
+  height: 40px;
+  display: inline-block;
+  border-radius: 3px;
+  margin: 5px;
+}
+
+#shape {
+  stroke-width: 3px;
+  fill: transparent;
+  stroke: #009FFD;
+  stroke-dasharray: 80 400;
+  stroke-dashoffset: -222;
+  transition: 1s all ease;
+}
+
+#text {
+  margin-top: -32.5px;
+  text-align: auto;
+}
+
+.svg-wrapper:hover #shape {
+  stroke-dasharray: 50 0;
+  stroke-width: 3px;
+  stroke-dashoffset: 0;
+  stroke: #06D6A0;
+}
