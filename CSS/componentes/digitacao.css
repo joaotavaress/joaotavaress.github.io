@@ -1,5 +1,5 @@
 .typewriter {
-  display: inline-block;
+  display: inline;
   overflow: hidden;
   border-right: 0.1em solid rgb(0, 0, 0);
   white-space: nowrap;
