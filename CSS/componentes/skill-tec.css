@@ -1,0 +1,14 @@
+.skill-tec {
+  display: flex;
+  font-size: 20px;
+}
+
+.skill-tec .icon {
+  margin-right: 20px;
+}
+
+.skill-tec .right {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+}
