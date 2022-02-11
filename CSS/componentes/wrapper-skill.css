@@ -1,0 +1,13 @@
+.wrapper-skill {
+  display: flex;
+  flex-wrap: wrap;
+  max-width: 960px;
+}
+
+.wrapper-skill .skill-tec {
+  width: 430px;
+}
+
+.wrapper-skill .progress-bar {
+  width: 320px;
+}
