@@ -6,3 +6,7 @@
 .text-color {
   color: grey;
 }
+
+.section .text-color {
+  margin-bottom: 60px;
+}

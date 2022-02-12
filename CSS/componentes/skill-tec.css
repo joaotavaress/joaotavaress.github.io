@@ -7,6 +7,10 @@
   margin-right: 20px;
 }
 
+.skill-tec .title {
+  margin-bottom: 10px;
+}
+
 .skill-tec .right {
   display: flex;
   flex-direction: column;
