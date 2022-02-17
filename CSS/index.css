@@ -13,3 +13,10 @@ a {
 	text-decoration: none;
 	padding: 1px;
 }
+
+header {
+	position: fixed;
+	z-index: 99;
+	width: 100%;
+	background-color: #fff;
+}
