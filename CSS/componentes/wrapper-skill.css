@@ -1,3 +1,7 @@
+.text-color {
+  color: grey;
+}
+
 .wrapper-skill {
   display: flex;
   flex-wrap: wrap;
@@ -19,4 +23,15 @@
 
 .wrapper-skill .progress-bar {
   width: 320px;
+}
+
+.main-title {
+  display: inline-block;
+  text-align: start;
+  margin: 80px 100px 0 80px;
+  font-family: 'Lexend', sans-serif;
+  color: #2096EC;
+  font-size: 50px;
+  font-weight: 600px bold;
+  text-shadow: 5px 8px 5px #D3D3D3;
 }
